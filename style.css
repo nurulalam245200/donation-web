@@ -81,6 +81,7 @@ body {
   margin-left: 5%;
   box-shadow: 10px 10px 30px gray;
   padding-left: 10px;
+  padding-right: 10px;
   border-radius: 10px;
   border-left: 3px double lime;
   margin-bottom: 120px;
@@ -92,11 +93,15 @@ body {
 }
 .split_info {
   display: flex;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 .fexiblity {
-  width: 50%;
-  padding: 10%;
-  margin-top: 0;
+  width: 40%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 .photo {
   margin-top: 40px;
