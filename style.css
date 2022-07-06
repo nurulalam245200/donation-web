@@ -1,5 +1,6 @@
 body {
   font-family: "Playfair Display", serif;
+  margin: 0;
 }
 
 .upper_page_bg {
@@ -134,4 +135,5 @@ footer {
   background-image: linear-gradient(rgb(0, 255, 149), rgb(241, 53, 85));
   color: black;
   font-family: playball;
+  margin: 0;
 }
